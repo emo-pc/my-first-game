@@ -4,7 +4,7 @@
 ![StdDraw](https://img.shields.io/badge/Library-StdDraw-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-A 2D space shooter arcade game developed in Java using the **StdDraw** library. Developed for **Boğaziçi University CMPE 160 (Object-Oriented Programming)**. 
+A 2D space shooter arcade game developed in Java using the **StdDraw** library. Developed for **Bogazici University CMPE 160 (Object-Oriented Programming)**. 
 
 The game features dynamic multi-layer enemy formations, custom bounding-box collision physics, and complex mathematical AI movement patterns for unique boss villains.
 
