@@ -69,4 +69,5 @@ The game includes **6 custom villain types**, each implemented with unique mathe
    javac -cp .:stdlib.jar src/*.java -d bin
    java -cp bin:stdlib.jar Main
    ```
+---
 
