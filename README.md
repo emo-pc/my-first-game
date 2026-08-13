@@ -50,5 +50,23 @@ The game includes **6 custom villain types**, each implemented with unique mathe
 | `Up / Down` | Navigate End Game Menu |
 
 ---
+## 🚀 How to Run Locally
 
+### Prerequisites
+- Java Development Kit (JDK 11 or higher) installed.
+
+### Execution
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/emo-pc/my-first-game.git](https://github.com/emo-pc/my-first-game.git)
+   cd my-first-game
+   ```
+
+2. **Compile and Run:**
+   !!İmportant: Upload stdlib.jar library and set it.
+   Ensure `stdlib.jar` is in your working directory, then run:
+   ```bash
+   javac -cp .:stdlib.jar src/*.java -d bin
+   java -cp bin:stdlib.jar Main
+   ```
 
