@@ -63,7 +63,7 @@ The game includes **6 custom villain types**, each implemented with unique mathe
    ```
 
 2. **Compile and Run:**
-   !!İmportant: Upload stdlib.jar library and set it.
+   !!Important: Upload `stdlib.jar` library and set it.
    Ensure `stdlib.jar` is in your working directory, then run:
    ```bash
    javac -cp .:stdlib.jar src/*.java -d bin
