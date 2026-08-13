@@ -31,8 +31,8 @@ The game includes **6 custom villain types**, each implemented with unique mathe
 
 | Villain | Movement Trajectory | Projectile / Unique Behavior |
 | :--- | :--- | :--- |
-| **Villain 1** | Probabilistic Y-axis movement | Random Y-velocity bullets; can destroy player bullets mid-air. |
-| **Villain 2** | Zig-zag pathing | Burst-fire mechanism (stops & fires 4 consecutive bullets). |
+| **Snoop Duck** | Probabilistic Y-axis movement | Random Y-velocity bullets; can destroy player bullets mid-air. |
+| **SHIELD** | Zig-zag pathing | Burst-fire mechanism (stops & fires 4 consecutive bullets). |
 | **Bananini** | Parabolic curve: $y = \frac{(x-900)^2}{750} + 750$ | Sinusoidal wave bullets: $x = k + 100 \sin(y)$. |
 | **Turretle** | Circular orbit: $(x-a)^2 + (y-b)^2 = 10000$ | Orbital projectiles. |
 | **BeetleJuice** | **Bullet Dodging Vector AI:** Calculates inverse-distance escape vectors when player bullets get within 200 units. | Homing/accelerating bullets targeting player location. |
