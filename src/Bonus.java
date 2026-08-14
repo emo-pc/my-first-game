@@ -1,7 +1,3 @@
-//Name:Emre Ezgü
-//ID:2024400144
-
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.util.Random;
